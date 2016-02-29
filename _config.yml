@@ -1,0 +1,14 @@
+layout_spectrum: 0.6559139
+color:
+  saturation: 0.9118517
+  brandStrength: 0.4507915
+  lightness: 1
+  rhythmicContrast: 0.1111111
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.40681
+name: viewfromhere

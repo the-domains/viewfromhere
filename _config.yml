@@ -1,14 +1,26 @@
-layout_spectrum: 0.6559139
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.40681
 color:
-  saturation: 0.9118517
+  saturation: 0
   brandStrength: 0.4507915
   lightness: 1
-  rhythmicContrast: 0.1111111
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.40681
+  rhythmicContrast: 0
+layout_spectrum: 0.6559139
 name: viewfromhere
